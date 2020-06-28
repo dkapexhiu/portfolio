@@ -1,0 +1,114 @@
+- name: Gatsby React Elementary
+  url: https://gatsby-elementary.netlify.app/
+  description: Modern Gatsby React App
+  status: live
+  tags:
+    - React.js
+    - Gatsby
+    - Netlify
+  icon: website
+  image: images/elementary.jpg
+
+- name: Product Management
+  url: https://pm.danielkapexhiu.com/
+  description: Welcome to your product manager app for controlling your products everywhere and when needed
+  status: live
+  tags:
+    - React.js
+    - Firebase
+  icon: website
+  image: images/pm.jpg
+
+- name: Gatsby Typescript React Portfolio
+  url: https://gatsby-typescript-website.netlify.app/
+  description: Portfolio Gatsby React App
+  status: live
+  tags:
+    - React.js
+    - Gatsby
+    - Netlify
+  icon: website
+  image: images/ts.jpg
+
+- name: Basic Profile
+  url: http://basicprofile.herokuapp.com/
+  description: Modern React Node Profile App
+  status: live
+  tags:
+    - React.js
+    - Node.js
+    - Heroku
+  icon: website
+  image: images/basic.jpg
+
+- name: Group Analysis Albania
+  url: https://groupanalysisalbania.org/
+  description: ASSOCIATION GROUP ANALYSIS ALBANIA is a member of the European Network of Group Analysis Training Institutions
+  status: live
+  tags:
+    - Wordpress
+    - JavaScript
+  icon: website
+  image: images/gaa.jpg
+
+- name: FAAS Architects
+  url: https://faasarchitects.al/
+  description: FAAS is an architectural design studio that creates spaces for life, work and relax, that are filled with vital energy, not requiring artificial decoration
+  status: live
+  tags:
+    - Wordpress
+    - JavaScript
+  icon: website
+  image: images/faas.jpg
+
+- name: AlbRecovery
+  url: https://albrecovery.al/
+  description: AlbRecovery is a leading company in the region in the mining industry, the largest chrome ore and ferrochrome producer in Albania
+  status: live
+  tags:
+    - Wordpress
+    - JavaScript
+  icon: website
+  image: images/albrecovery.jpg
+
+- name: AlbaSolutions
+  url: https://albasolutions.fr/
+  description: AlbaSolutions is a leading company in the field of construction
+  status: live
+  tags:
+    - Wordpress
+    - JavaScript
+  icon: website
+  image: images/albasolutions.jpg
+
+- name: Suko Organic
+  url: https://suko.al/
+  description: Suko Organic is a leading shop in the field of juices bar and snacks
+  status: live
+  tags:
+    - PHP
+    - JavaScript
+  icon: website
+  image: images/suko.jpg
+
+
+- name: GROUP GSA
+  url: https://group-gsa.com/
+  description: GSA GROUP - GENERAL STEELWORK ASSEMBLY
+  status: live
+  tags:
+    - Wordpress
+    - JavaScript
+  icon: website
+  image: images/gsa.jpg
+
+- name: KOZO GHANA
+  url: http://kozogh.com/
+  description: Located in the heart of Accra, Ghana, Kōzo is a hip modern take in the Asian dining experience
+  status: live
+  tags:
+    - PHP
+    - JavaScript
+  icon: website
+  image: images/kozo.jpg
+

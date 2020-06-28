@@ -1,0 +1,27 @@
+- profile:
+  initials: DK
+  name: Daniel Kapexhiu
+  email: daniel.kapexhiu@gmail.com
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Tirana, ALB
+  relocation: true
+  company: Stema Digital
+  for_hire: true
+  focus: JavaScript
+  focus_url: https://javascript.com
+  about: |
+    I'm creating nice web experiences for the next generation of consumer-facing companies.
+  skills:
+    - JavaScript | PHP
+    - React.js
+    - Node.js
+  tools:
+    - Wordpress
+    - VSCode
+    - Gatsby
+  budget:
+    currency: $
+    min: 10
+    max: 100
+    default: 10
